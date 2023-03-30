@@ -1,0 +1,196 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face{
+    font-family: Nexa;
+    src: url(Nexa-ExtraLight.ttf);
+}
+
+@font-face{
+    font-family: Nexa1;
+    src: url(Nexa-Heavy.ttf);
+}
+
+.nav-link {
+    color: rgb(210, 158, 0);
+    font-weight: bold;
+    justify-content: end;
+    margin-top: 10px;
+}
+
+.nav-item {
+    margin-top: 40px;
+
+}
+
+.texto1 {
+    height: 267px;
+    width: 676px;
+    font-size: 22px;
+    color: black;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.conocenos {
+    background-color: rgb(218, 218, 218);
+    margin: 10px
+}
+
+.tituloequipo {
+    margin: 80px;
+    text-align: center;
+    color: rgba(210, 158, 0);
+}
+
+
+.final {
+    margin-top: 500px;
+    background-image: url(./imagenes/ESCENARIO.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.card-title {
+    text-align: center;
+    font-weight: bold;
+    color: rgba(210, 158, 0);
+    font-size: 22px;
+}
+.subtitulos {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(210, 158, 0);
+}
+.card-text{
+    font-family: Nexa;
+    text-align: center;
+    font-size: 16px;
+}
+.card-title{
+    font-family: Nexa1;
+}
+.card{
+    background-color: rgb(255, 217, 105);
+    margin: 10px
+}
+
+.texto-video {
+    margin-top: 16px;
+    margin-left: 30px;
+    font-family: Nexa;
+}
+
+h6{
+    font-family: Nexa1;
+    color: rgb(255, 217, 105);
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.holi{
+    width: 84rem;
+}
+
+ .card-img {
+    height: 200px;
+    width: 200px;
+    margin-left: 120px;
+} 
+
+ .card-img-icono  {
+    height: 200px;
+    width: 200px;
+    margin-left: 157px;
+} 
+
+.card-img-yo1 {   
+   
+    border-radius: 50%;
+   
+}
+.card-group{
+    margin-top: -10px;
+}
+
+.tituloequipo{
+    font-family: Nexa1;
+    font-size: 40px;
+}
+
+.final {
+    margin: 100px;
+
+}
+
+.tex {
+    /* padding: 50px;
+    margin-right: 129px;
+    margin-left: -80px; */
+    font-family: Nexa;
+    font-size: 18px;
+    text-align: justify;
+}
+
+/* .img-fluid {
+    margin-left: 298px;
+    width: 286px;
+} */
+
+.hermes {
+    color: rgba(210, 158, 0);
+    margin: 50px;
+    text-align: center;
+    font-family: Nexa1;
+    font-size: 40px;
+}
+
+.escenariofinal{
+    margin-top: 66px;
+   /*  background: url(./imagenes/ESCENARIO.png);
+    background-size: cover;
+    background-repeat: no-repeat; */
+   /* height: 48rem;*/
+
+}
+
+.btn {
+    width: 200px;
+    position: relative;
+    color: rgb(0, 0, 0);
+    background-color: rgba(210, 158, 0);
+    z-index: 1;
+    font-family: Nexa1;
+}
+.btn:hover {
+    background-color: black;
+    color: aliceblue;
+}
+
+.navbar-nav {
+    margin-left: 238px;
+}
+
+.iconos {
+    margin-top: -38px;
+    background-color: rgb(249, 228, 110);
+    padding: 30px;
+}
+
+.escenario {
+    margin-left: -12px;
+}
+.vi{
+    width: 500px; 
+    height: 250px;
+    margin-top: -4px;
+}
+.amarillo{
+    margin-top: 30px;
+}
